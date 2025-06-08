@@ -1,0 +1,4 @@
+1 - O Java lançará uma exceção FileNotFoundException, que será tratada como IOException se estiver dentro de um try-catch.
+2 - Usando try-with-resources, o Java fecha automaticamente os arquivos após o uso, evitando vazamentos de recurso.
+3a - csv Nos usamos String.join";" para salvar e String.split";" para ler.
+3b - json  Nos usamos bibliotecas como gson ou jackson para converter objetos em texto JSON e vice versa.
